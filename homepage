@@ -1,0 +1,16 @@
+<!DOCTYPE html>
+<html lang="nl">
+<head>
+    <meta charset="UTF-8">
+    <title>Mijn Homepage</title>
+</head>
+<body>
+    <h1>Welkom op mijn homepage</h1>
+    <p>Mijn naam is [Daniël]. Ik heb veel hobby's, waaronder programmeren, lezen en reizen.</p>
+    <h2>Introductievideo</h2>
+    <video width="600" controls>
+        <source src="path/to/jouw_video.mp4" type="video/mp4">
+        Je browser ondersteunt deze video niet.
+    </video>
+</body>
+</html>
