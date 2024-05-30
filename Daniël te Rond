@@ -1,0 +1,64 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Mijn Persoonlijke Website</title>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1, user-scalable=no" />
+    <link rel="stylesheet" href="assets/css/main.css" />
+</head>
+<body>
+    <!-- Header -->
+    <header id="header">
+        <div class="logo"><span class="icon fa-gem"></span></div>
+        <div class="content">
+            <div class="inner">
+                <h1>Welkom op mijn website</h1>
+                <p>Mijn naam is [Jouw Naam]. Ik heb veel hobby's, waaronder programmeren, lezen en reizen.</p>
+            </div>
+        </div>
+        <nav>
+            <ul>
+                <li><a href="#about">Over Mij</a></li>
+                <li><a href="#hobbies">Hobby's</a></li>
+                <li><a href="#contact">Contact</a></li>
+            </ul>
+        </nav>
+    </header>
+
+    <!-- Main -->
+    <div id="main">
+
+        <!-- About -->
+        <article id="about">
+            <h2 class="major">Over Mij</h2>
+            <p>Ik ben [Daniël], een enthousiaste [jongen] met een passie voor [Zeilen].</p>
+        </article>
+
+        <!-- Hobbies -->
+        <article id="hobbies">
+            <h2 class="major">Hobby's</h2>
+            <p>Ik geniet van [beschrijf je hobby's].</p>
+        </article>
+
+        <!-- Contact -->
+        <article id="contact">
+            <h2 class="major">Contact</h2>
+            <p>Je kunt me bereiken via [jouw emailadres].</p>
+        </article>
+
+    </div>
+
+    <!-- Footer -->
+    <footer id="footer">
+        <p>&copy; [Jouw Naam]. Design: <a href="https://html5up.net">HTML5 UP</a>.</p>
+    </footer>
+
+    <!-- Scripts -->
+    <script src="assets/js/jquery.min.js"></script>
+    <script src="assets/js/browser.min.js"></script>
+    <script src="assets/js/breakpoints.min.js"></script>
+    <script src="assets/js/util.js"></script>
+    <script src="assets/js/main.js"></script>
+
+</body>
+</html>
